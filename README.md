@@ -1,7 +1,7 @@
 ### AI_ASSIGNMENT4_SE24UCSE212
 
 ###  Map Coloring – Australia
-* Colors the 7 regions: WA, NT, Queensland, SA, NSW, V, T
+* Colors the 7 regions: WA, NT, Queensland, SA, NSW, V, Tasmania
 * Constraint: No adjacent regions share the same color
 * Technique: Backtracking CSP
 
