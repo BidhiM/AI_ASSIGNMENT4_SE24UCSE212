@@ -5,7 +5,7 @@ graph = {
     'SA': ['NT', 'WA','Queensland','NSW','V'],
     'NSW': ['V', 'SA','Queensland'],
     'V': ['NSW', 'SA'],
-    'T': []
+    'Tasmania': []
 }
 
 colors = ['Pink', 'Green', 'Blue']
@@ -34,5 +34,5 @@ def solve(path):
 
     return None
 
-solution = solve({})
-print("Solution", solution)
+answer = solve({})
+print("Solution", answer)
